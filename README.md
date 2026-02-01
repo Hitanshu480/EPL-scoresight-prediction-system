@@ -4,7 +4,7 @@ ScoreSight is a Machine Learning–based football analytics application built us
 It focuses on player performance prediction and provides a foundation for match outcome prediction using English Premier League (EPL) data.
 
 🔗 Live App (Streamlit Cloud):  
-(Add Streamlit link here after deployment)
+(https://epl-scoresight-prediction-system-jztoswxkywysrybqjlnrn6.streamlit.app/)
 
 ---
 
